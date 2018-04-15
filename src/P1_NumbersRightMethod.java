@@ -8,11 +8,11 @@ public class P1_NumbersRightMethod {
 
 	public static void main(String[] args) {
 
-		public void printReversedTriangle(int num)
+		public void printReversedTriangle(int 7)
 		{
-		    for(int i=0; i<=num; i++)
+		    for(int i=0; i<=7; i++)
 		    {
-		        for(int j=num-i; j>0; j--)
+		        for(int j=7-i; j>0; j--)
 		        {
 		            System.out.print(" ");
 		        }
